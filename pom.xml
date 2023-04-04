@@ -15,6 +15,6 @@
     </dependency>
   </dependencies>
   <build>
-        <finalName>maven-war</finalName>
+        <finalName>maven-additional-war</finalName>
   </build>
 </project>
