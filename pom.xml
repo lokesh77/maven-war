@@ -4,7 +4,7 @@
   <groupId>com.fresco.play</groupId>
   <artifactId>maven-war</artifactId>
   <packaging>war</packaging>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.7-SNAPSHOT</version>
   <name>maven-war</name>
   <url>http://maven.apache.org</url>
   <dependencies>
